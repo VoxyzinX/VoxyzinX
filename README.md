@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 ## V o x y z i n - :computer: 
 
-Curso Js,C# e Python
-- Estou aprendendo HTML e CSS
+Curso Js,C#, Python, Html e css
+- Estou aprendendo Ruby e PHP
 
 
 
 ## Sobre mim:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Duconx)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 
 - Sempre buscando conhecimento :)
 
