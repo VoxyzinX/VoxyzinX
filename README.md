@@ -30,4 +30,7 @@ Curso Js,C#, Python, Html e css
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 
 - Sempre buscando conhecimento :)
+- Tenho 16 anos
+- Busco empregos legais
+- Sou Carioca
 
