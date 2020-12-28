@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## V o x y z i n - :computer: 
 
-Curso Js,C#, Python, Html e css
-- Estou aprendendo Ruby e PHP
+Curso Js,C#, Python, Html, Css, Ruby e PHP
+- Estou aprendendo C++ & C
 
 
 
@@ -31,6 +31,6 @@ Curso Js,C#, Python, Html e css
 
 - Sempre buscando conhecimento :)
 - Tenho 16 anos
-- Busco empregos legais
 - Sou Carioca
+- VOXY PIROCUDO
 
