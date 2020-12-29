@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## V o x y z i n - :computer: 
 
-Curso Js,C#, Python, Html, Css, Ruby e PHP
+Curso Js, Python, Html, Css, Ruby e PHP
 - Estou aprendendo C++ & C
 
 
