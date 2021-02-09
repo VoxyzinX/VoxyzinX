@@ -34,5 +34,5 @@ Curso Js, Python, Html, Css, Ruby
 - Sou Carioca
 - VOXY PIROCUDO
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=radical)
+![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=radical)
 
