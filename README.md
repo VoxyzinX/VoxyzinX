@@ -34,6 +34,6 @@ Curso Js, Python, Html, Css, Ruby
 - Sou Carioca
 - VOXY PIROCUDO
 
-![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=radical)
+![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=Gradient)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VoxyzinX)](https://github.com/anuraghazra/github-readme-stats)
 
