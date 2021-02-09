@@ -35,4 +35,5 @@ Curso Js, Python, Html, Css, Ruby
 - VOXY PIROCUDO
 
 ![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VoxyzinX)](https://github.com/VoxyzinX/github-readme-stats)
 
