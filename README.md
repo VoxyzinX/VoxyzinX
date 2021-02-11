@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## V o x y z i n - :computer: 
 
 Curso Js, Python, Html, Css, Ruby
-- Estou aprendendo C++ & C
+- Estudando C#
 
 
 
