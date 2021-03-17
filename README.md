@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## V o x y z i n - :computer: 
 
-#Langs
+# Langs
 Js, Python, Html, Css, Ruby
 - Estudando C#
 
