@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
 
-# Bem Vindo!
+# Welcome!
 
 ## V o x y z i n - :computer: 
 
-# Langs
+# Languages
 Js, Python, Html, Css, Ruby
 - Estudando C#
 
@@ -30,10 +30,6 @@ Js, Python, Html, Css, Ruby
 ## Sobre mim:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 
-- Sempre buscando conhecimento :)
-- Tenho 16 anos
-- Sou Carioca
-- VOXY PIROCUDO
 
 ![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=default)
 
