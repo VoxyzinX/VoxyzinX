@@ -27,7 +27,7 @@ Js, Python, Html, Css, Ruby
 
 
 
-## Sobre mim:
+## About me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 - I currently live in Brazil
 - My friends call me voxy 😊
