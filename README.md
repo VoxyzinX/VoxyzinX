@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
+<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/819991970087960651/900837517702594590/09c8cd5a194a7cf9081528a6b70b8149.jpg">
 
 # Welcome!
 
