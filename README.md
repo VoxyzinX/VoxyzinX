@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ## About me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 - I currently live in Brazil
-- My friends call me voxy 😊
-- Discord user
+- A young student in search of knowledge
+- Soon I'll be back to study .lua
 
 
 
